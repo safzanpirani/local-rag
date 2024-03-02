@@ -15,5 +15,5 @@ def sidebar():
         with tab2:
             settings()
 
-        with tab3:
-            about()
+        #with tab3:
+        #    about()

@@ -19,6 +19,4 @@ Some Documentation and Set-up:
 - [Setup & Deploy the App](docs/setup.md)
 - [Using Local RAG](docs/usage.md)
 - [RAG Pipeline](docs/pipeline.md)
-- [Planned Features](docs/todo.md)
-- [Known Bugs & Issues](docs/todo.md#known-issues--bugs)
 - [Resources](docs/resources.md)
