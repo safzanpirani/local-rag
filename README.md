@@ -1,23 +1,20 @@
 # 📚 Local RAG
 
-![local-rag-demo](demo.gif)
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/jonfairbanks/local-rag)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/safzanpirani/local-rag)
 ![GitHub last commit](https://img.shields.io/github/last-commit/jonfairbanks/local-rag)
-![GitHub License](https://img.shields.io/github/license/jonfairbanks/local-rag)
 
-Offline, Open-Source RAG
+Intelligent Conversations with Documents
 
-Ingest files for retrieval augmented generation (RAG) with open-source Large Language Models (LLMs), all without 3rd parties or sensitive data leaving your network.
+Upload files for retrieval augmented generation (RAG) with open-source Large Language Models (LLMs).
 
 Features:
 
-- Offline Embeddings & LLMs Support (No OpenAI!)
-- Streaming Responses
+- Offline Embeddings & LLMs Support
+- Streamed Responses
 - Conversation Memory
 - Chat Export
 
-Learn More:
+Some Documentation and Set-up:
 
 - [Setup & Deploy the App](docs/setup.md)
 - [Using Local RAG](docs/usage.md)
