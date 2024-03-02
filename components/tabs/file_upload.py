@@ -6,15 +6,15 @@ from components.tabs.website import website
 
 
 def file_upload():
-    st.title("Directly import your files")
-    st.caption("Convert your files to embeddings for utilization during chat")
+    st.title("Import your documents.")
+    st.caption("Upload your documents to intelligently talk to them.")
     st.write("")
 
     with st.expander("💻 &nbsp; **Local Files**", expanded=False):
         local_files()
 
-    with st.expander("🗂️ &nbsp;**GitHub Repo**", expanded=False):
-        github_repo()
+  #  with st.expander("🗂️ &nbsp;**GitHub Repo**", expanded=False):
+  #      github_repo()
 
-    with st.expander("🌐 &nbsp; **Website**", expanded=False):
-        website()
+  #  with st.expander("🌐 &nbsp; **Website**", expanded=False):
+  #      website()
