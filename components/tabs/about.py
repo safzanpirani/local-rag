@@ -13,9 +13,6 @@ def about():
         <li>
             <a href="https://github.com/safzanpirani/local-rag" style="color: grey;">GitHub</a>
         </li>
-        <li>
-            <a href="https://hub.docker.com/r/safzanpirani/local-rag" style="color: grey;">Docker Hub</a>
-        </li>
     </ul>
     """
 
@@ -34,26 +31,8 @@ def about():
     </ul>
     """
 
-    help_html = """
-    <ul style="list-style-type:none; padding-left:0;">
-        <li>
-            <a href="https://github.com/safzanpirani/local-rag/issues" style="color: grey;">
-                Bug Reports
-            </a>
-        </li>
-        <li>
-            <a href="https://github.com/safzanpirani/local-rag/discussions/new?category=ideas" style="color: grey;">
-                Feature Requests
-            </a>
-        </li>
-    </ul>
-    """
-
     st.subheader("Links")
     st.markdown(links_html, unsafe_allow_html=True)
 
     st.subheader("Resources")
     st.markdown(resources_html, unsafe_allow_html=True)
-
-    st.subheader("Help")
-    st.markdown(help_html, unsafe_allow_html=True)

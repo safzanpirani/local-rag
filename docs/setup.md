@@ -1,6 +1,6 @@
 # Setup
 
-Before you get started with Local RAG, ensure you have:
+To get started with Local RAG, make sure you have:
 
 - A local [Ollama](https://github.com/ollama/ollama/) instance
 - At least one model available within
