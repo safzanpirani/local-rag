@@ -1,7 +1,7 @@
 # 📚 Local RAG
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/safzanpirani/local-rag)
-![GitHub last commit](https://img.shields.io/github/last-commit/jonfairbanks/local-rag)
+![GitHub last commit](https://img.shields.io/github/last-commit/safzanpirani/local-rag)
 
 Intelligent Conversations with Documents
 
