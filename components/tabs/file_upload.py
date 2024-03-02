@@ -13,8 +13,8 @@ def file_upload():
     with st.expander("💻 &nbsp; **Local Files**", expanded=False):
         local_files()
 
-    with st.expander("🗂️ &nbsp;**GitHub Repo**", expanded=False):
-        github_repo()
+  #  with st.expander("🗂️ &nbsp;**GitHub Repo**", expanded=False):
+  #      github_repo()
 
   #  with st.expander("🌐 &nbsp; **Website**", expanded=False):
   #      website()
