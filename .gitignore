@@ -1,0 +1,5 @@
+*.pyc
+data/*
+*.log
+.cache/*
+.nv/*
