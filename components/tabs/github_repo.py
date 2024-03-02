@@ -15,7 +15,7 @@ def github_repo():
     if st.session_state["selected_model"] is not None:
         st.text_input(
             "Select a GitHub.com repo",
-            placeholder="jonfairbanks/local-rag",
+            placeholder="safzanpirani/local-rag",
             key="github_repo",
         )
 
